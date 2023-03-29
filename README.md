@@ -15,11 +15,7 @@ Para este proyecto, utilizaremos la arquitectura MVVM (Modelo Vista Vista Modelo
 
 ## Uso de Riverpod
 
-En este proyecto utilizaremos Riverpod para manejar la inyección de dependencias y el estado global de la aplicación. La clase `SuperheroesViewModel` será registrada como un proveedor en el árbol de proveedores de Riverpod y será utilizada en las pantallas de la aplicación.
-
-## Uso de la API pública
-
-En este proyecto utilizaremos la API pública `https://superheroapi.com` para obtener información sobre superhéroes. Utilizaremos el paquete `http` de Flutter para hacer peticiones a la API. Para utilizar esta API es necesario obtener una `API key` registrándose en la página web de SuperHeroAPI.
+En este proyecto utilizaremos Riverpod para manejar la inyección de dependencias y el estado global de la aplicación.
 
 ## Descarga
 
